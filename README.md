@@ -1,7 +1,3 @@
-##👋 Hi, I’m @zK0G0w
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-
 ###  Hi, I'm @zK0G0w
 
 Recently being developed with `Golang` 
