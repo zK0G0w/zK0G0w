@@ -1,6 +1,6 @@
 ###  Hi, I'm @zK0G0w
 
-Recently being developed with `Golang` 
+Recently being developed with `Golang` and `Java`
 
 📚︎ Learning:
 * Database & Storage
